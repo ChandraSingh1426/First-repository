@@ -1,1 +1,2 @@
-My first Git practical by Chandra Singh 
+My first Git practical by Chandra Singh
+Learning Git and GitHub for DevOps
