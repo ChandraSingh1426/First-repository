@@ -2,3 +2,5 @@ My first Git practical by Chandra Singh
 Learning Git and GitHub for DevOps
 
 My again  well doind parctise
+
+Learning Git for DevOps - Day 2
